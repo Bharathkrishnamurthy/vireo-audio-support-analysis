@@ -1,0 +1,11 @@
+agent_id,team,tier,tickets,csat_responses,avg_csat,low_csat_rate,site,shift,median_aht_hours
+A3004,Chat Frontline,1,305,129,2.98,34.1,Bengaluru,Day,0.4
+A3006,Chat Frontline,1,281,142,3.01,35.9,Indore,Morning,0.4
+A3007,Chat Frontline,1,278,120,3.01,38.3,Indore,Morning,0.4
+A3005,Chat Frontline,1,299,118,3.04,34.7,Bengaluru,Day,0.4
+A3029,Logistics,1,340,159,3.13,22.6,Bengaluru,Morning,24.4
+A3028,Logistics,1,348,154,3.14,22.7,Bengaluru,Morning,24.4
+A3030,Logistics,1,337,150,3.18,19.3,Bengaluru,Morning,24.4
+A3038,Returns Desk,1,284,121,3.21,23.1,Bengaluru,Day,24.4
+A3037,Returns Desk,1,563,243,3.28,22.6,Indore,Morning,24.6
+A3036,Returns Desk,1,257,106,3.29,17.9,Indore,Day,24.4

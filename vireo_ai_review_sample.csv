@@ -1,0 +1,178 @@
+ticket_id,agent_id,category,channel,csat_score,customer_message,agent_notes
+TK-248059,A3007,Account & Login,chat,2.0,"Hi, Ordered the charging case I ordered a month ago.  Cannot login to my account. I tried on another browser. Please call me on my registered number.","1. Login issue
+2. chk number on account
+3. OTP resent, cx logged in (SOP 5.4) [closed]"
+TK-240023,A3006,App & Firmware,chat,1.0,"Hello, Ordered the Pulse buds 3 weeks back. Firmware uppdate is stuck at 89%. I kept it in the case. Nothing changed. I want my money back. Thanks,",closed [closed]
+TK-240510,A3007,App & Firmware,chat,2.0,"Dear Sir/Madam,
+
+I am writing w/ reference to my ordr of airlite earbuds (VR902365) placed on 28-01-2025.  App crashes when I open device settings. I have updated phone. I request u to provide a resolution within 3 working days.
+
+Yours faithfully,
+Riya Chauhan","app crashing | checked app version -> advised beta build, rslvd (SOP 4.2) [closed]"
+TK-240536,A3029,App & Firmware,chat,2.0,"app not opening after update, pls resolve asap","Cx says app not opening. Checked app version. Transferred to Logistics. Cleared cache, resolved. ~Kavya"
+TK-242212,A3007,App & Firmware,chat,2.0,"hello,
+i bought the nexa smartwatch on 18-04-2025.  the progress bar has not moved since morning.
+i kept it in the case.
+please advise.
+regards, varun","1. Update hang
+2. Walked through recovery mode
+3. Replacement raised (bricked) (SOP 4.2) [closed]"
+TK-242824,A3007,App & Firmware,chat,2.0,"hi sir
+the progess bar has not moved since morning
+3 weeks back se","1. Firmware update failed
+2. Walekd through recovery mode
+3. rplc raised (bricked) [closed]"
+TK-243145,A3006,App & Firmware,chat,2.0,"Hello Vireo, Bought AirLite around March 25 from vireo.in.  App crashes when I open device settings. I reinstalled the app. Nothing changed. Not what I expected from Vireo. How do I get this fixed?","ticket raised for app crrash on device page. known issue on ios 18 - bug logged. bug logged, workaround shared. [closed]"
+TK-243245,A3028,App & Firmware,chat,2.0,"Hi there, Ordered Pulse earbuds recently. Can't get past the loading screen in the app. I cleared cache. I want a replacement.","Ticket raised for app not opening. Asked for phone model + OS. Transferred to Logistics. Bug logged, workaround shared."
+TK-243364,A3006,App & Firmware,chat,2.0,"helo
+it connects for a second and then vanishes from the device list
+the pulse buds","issue: device not discoverble | asked cx to reset the device -> advised fw update via app, resolved [closed]"
+TK-243931,A3006,App & Firmware,chat,2.0,"Deaar Sir/Madam,
+
+I am writing with reference to my odrer of AirLite placed on 08/08. After the update prompt it went dark and never came back. I have kept phone nearby. I request you to process a refund to my orgiinal payment method.
+
+Yours faithfully,
+Annkit Mukherjee
+Hyderabad",reported: firmware update failed. walked throgh recovery mode. update completed after retry. [closed]
+TK-252901,A3005,App & Firmware,chat,2.0,"hello
+firmware update is stuck at 99%
+the nexa 2",Contact re firmware updtae failed. Asked cx to keep in cse 30 min. Update completed after retry.
+TK-247322,A3004,Audio Quality,voice,1.0,[IVR transcript] left side not charging in the case need this sorted this week,as discussed [closed]
+TK-248234,A3006,Audio Quality,email,1.0,"to the vireo customer care team,
+
+i am writing w/ reference to my order of my pulse 2 (vr880704) plaed on 11-12-2025. the left one stopped charging since 10 days ago. i have trried another charger. i request you to proivde a resolution within 3 working days.
+
+regards,
+bhavna mathew",see prev [closed]
+TK-248738,A3005,Audio Quality,email,1.0,"namaste, bught pulse 2 buds around january 04 from vireo.in.  only the right one lights up when i put them in the case. i tried a different cable. nothing changed. how do i get this fixed? thanks & regards,","New set dispatched, old set to be picked up. Issue: left bud not charging. Walkde through factory reset. -ZK"
+TK-248956,A3005,Audio Quality,email,1.0,"hi, i bought pulse2 on 07 dec. after a night in the case the left is at 0 and right at 100. i tried different phone. kindly look into it. thank u kunal","Replacement approved, reverse pickup arranged. Issue: right side silent. Checked balance settings with cx. -ZK"
+TK-249604,A3004,Audio Quality,social,1.0,"after a nght in the case the left is at 0 and right at 100, VR906124",sorted [closed]
+TK-249674,A3005,Audio Quality,voice,1.0,[IVR transcript] hey left bud won't charge even after keepinng it in the case overnight pls reply,Replacement bud + case dispatched. Issue: left bud not charging. Tested with cx on call. -ZK
+TK-251301,A3007,Audio Quality,chat,1.0,the left one stopped charging since around Diwali,"1. Left bud not charging
+2. Asked for photo of the bud contacts
+3. Replacement bud + case dispatched (SOP 2.7)"
+TK-254327,A3006,Audio Quality,chat,1.0,"Hey, Bought pulse 2 buds arround Feruary 20 from Amazon. One of thme (left) never gets the grreen light in the case. What do I do now?","ticket raised for left bud not charging. asked for photo of the bud contacts. escalated to hardware team, awaiting inspection. [closed]"
+TK-241657,A3006,Audio Quality,chat,2.0,"hi
+crackling sound in the left side
+hello??","replacement raised, rma shared with cx. issue: static noise in audio. checked fw. [closed]"
+TK-241671,A3006,Audio Quality,chat,2.0,"Hi there, This is regarding my Pulse.  Right earbud completely silent. I tried different phone. Waiting for your reply.",cust contacted re single side audio only. walked through reset. reset resolved.
+TK-242988,A3004,Billing & Payments,social,2.0,"Product: the mini speaker
+Order: VR880140
+Purchased: 14 Jul
+Issue: need GST invoice for my order
+Tried: tried different browser
+Expected: replacement","1. GST invoice request
+2. Regenerated invoice
+3. Transferred to Chat Frontline
+4. Invoice emailed"
+TK-247862,A3030,Billing & Payments,chat,2.0,pathetic experience honestly.  i bouht pulse 2 on 28 dec. money debited but order not showing. i already waited 24 hours. escalate this to someone senior.,re: failed order after payment | asked for utr -> order manually created | xfer logistics
+TK-251900,A3030,Billing & Payments,email,2.0,"Product: pulse 2 buds
+Order: VR892278
+Purchased: 17-03-2026
+Issue: money debited but order not showing
+Tried: tried logging out & in
+Expected: fix",re: failed order after payment | asked for utr -> refund processed to source | xfer logistics
+TK-245887,A3005,Charging & Battery,email,1.0,"Dear Sir/Madam,
+
+I am writing w/ reference to my order of the Pulse 2 earbuds placed on 01/11. The left one stopped chraging since around Diwali. I havve tried a different cable. I request you to kindly arrange a replacement.
+
+Sincerely,
+Kunal Banerjee","rplc raised under DOA, RMA shared. Issue: left bud not charging. Walked through factory reset."
+TK-246102,A3005,Charging & Battery,chat,1.0,"righht side works perfectly, left one just dos not wake up","rplc raised undre DOA, RMA shared. Issue: left earbud not taking charge. Walked through factory reset. -ZK"
+TK-247084,A3005,Charging & Battery,chat,1.0,"Dear Sir/Madam,
+
+I am writing w/ reference to my order of Pulse 2 placed on November 27. Left earbud shows 0% and never charges. I have cleaned the contacts w/ a cloth. I request you to kindly arrange a replacement.
+
+Regards,
+Shreya Rao","Reported: left earbud not taking charge. Confirmed FW 2.3.7. rplc raised under DOA, RMA shared. -ZK"
+TK-247356,A3006,Charging & Battery,email,1.0,"to the vireo customer care team,
+
+i am writnig with reference to my order of pulse 2 budds placed on 06/12. the left one only charges if the lid is held shut. i have trried anothher charger. i request u to look into thiis matter at the earliest.
+
+sincerely,
+vihaan srivastava",replacement bud + case dispatched. issue: l bud no charge in case. confirmed fw 1.0.5.
+TK-247624,A3004,Charging & Battery,chat,1.0,"Product: my Pulse 2
+Order: VR908088
+Purchased: December 14
+Issue: the L bud is basically a paperweight now, R is fine
+Tried: did the reset from the manual
+Expected: resolution",Ticket raised for L bud no charge in case. Asked for photo of the bud contacts. Replacement bud + case dispatched. [closed]
+TK-247682,A3005,Charging & Battery,chat,1.0,"hii
+left side not charging in the case
+the pulse 2 eaarbuds
+pls reply",Refunded Rs 595. Issue: L bud no charge in case. Tested with cx on call. -ZK
+TK-247716,A3006,Charging & Battery,voice,1.0,"[IVR transcript] lfet side gives up after 20 mins, right lasts all day","customer states left bud not charging. checked case led behaviour wth cx. replacement raised under doa, rma shared. [closed]"
+TK-248785,A3004,Charging & Battery,social,1.0,"To the Vireo Customer Care Team,
+
+I am writing with reference to my order of my Pulse 2 placed on 03 Jan. The left earbud is not charging at all. I have removed and reinserted it 10 times. I request you to look into this matter at the earliest.
+
+Regards,
+Ritika Dhillon
+Raipur",Cx reported left earbud not taking charge. Walked through factory reset. Replacement bud + case dispatched.
+TK-249178,A3007,Charging & Battery,social,1.0,the lefft one has to be pressed dowwn hrd in the case or it does nothing. VR899778. what do i do now?,"1. Left bud not charging
+2. Tested with cx on call
+3. rplc raised under DOA, RMA shared [closed]"
+TK-249207,A3006,Charging & Battery,chat,1.0,"hi
+left earbud shows 0% and never charges
+anyone there",cx ok [closed]
+TK-251723,A3006,Connectivity,chat,1.0,"Hi team, This is regarding Arc neckband. Not pairing with my phone. I restarted the phone. Nothing changed. Can someone fix this? Thanks in advance, Mohammed Siddiqui",resolevd on call
+TK-246173,A3007,Connectivity,chat,2.0,"Dear Sir/Madam,
+
+I am writing wih reference to my order of my Strata 2 headphones (VR900119) plaecd on 28 Aug.  Blueototh keeps cutting out. I have kept phone in hand. I request you to process a rfund to my original pyment method.
+
+Regards,
+Aishwarya Siddiqui
+Bhubaneswar","1. Intermittent disconnects
+2. adv to test in different location
+3. Replacemnt raised (SOP 3.1) [closed]"
+TK-247059,A3038,Connectivity,email,2.0,"helo
+keeps losing my phone if i walk to the other room
+airlite earbuds",Reported: intermittent disconnects. Checked interference sources. Transferred to Returns Desk. Replacement raised. Cx satisfied on chat. ~Varun
+TK-253588,A3037,Connectivity,chat,2.0,"Product: Nexa 2
+Order: VR897314
+Purchased: 03 Apr
+Issue: my phone just doesn't see it in the list anymore
+Tried: tried on another phone
+Expected: refund","Cust contacted re device not discoverable. Checked phoen OS version. xfer to Returns Desk. Reset done, paired ok."
+TK-240191,A3029,Delivery & Shipping,email,1.0,"to the vireo customer care team,
+
+i am writing with reference to my order of my orbit placed on january 05. package not delivered even after 18 days. i have checked with neighbours. i request you to kindly arrange a replacement.
+
+sincerely,
+aarav khan
+raipur",resolved on call
+TK-240277,A3030,Delivery & Shipping,email,1.0,"Product: Strata 3
+Order: VR883018
+Purchased: January 09
+Issue: box was crushed and teh Strata 3 is cracked
+Tried: took photos
+Expected: resolution","cx: unit received damaged | photos received, damage confirmed -> replacement dispatched"
+TK-240605,A3030,Delivery & Shipping,email,1.0,not what i expected from vireo. bought the fit band around 10/02 from vireo.in. my order has not bene delivered yet. i already called the courier. this is the last time i buy from you.,cust contacted re shipment not received. confirmed address with cx. refund initiated as lost in transit.
+TK-240661,A3029,Delivery & Shipping,social,1.0,"got strata 2 from vireo.in a month ago. it has been 15 days and i have nothing in hand. i checked with neighbours. nothing changed. not acceptable at this price. please help. thanks in advance,","Cust contacted re delivery delayed. Confirmed address with cx. Courier confirmed delivery for 21 Feb, cx informed. ~Kavya"
+TK-240967,A3028,Delivery & Shipping,email,1.0,"sir ji
+teh courier marked it delivered but nobody in my house got anything","Customer states order not delivered. chk AWB w/ crr. RTO confirmed, reshipped."
+TK-241208,A3028,Delivery & Shipping,chat,1.0,"HEY
+I HAVEN'T RECEIVED MY ORDER
+NEXA 2
+??",cx ok
+TK-241294,A3029,Delivery & Shipping,chat,1.0,"To the Vireo Customer Care Team,
+
+I am writing with reference to my order of Orbit speaker placed on March 23. Tracking has said out for delivery for a week now. I have checked with neighbours. I request you to kindly arrange a replacement.
+
+Regards,
+Saanvi Qureshi",Cx says delivery delayed. Confirmed address with cx. Re-shipped from warehouse. ~Kavya
+TK-241396,A3030,Delivery & Shipping,email,1.0,"Hello, Bought Nexa Fit around 28-03-2025 from vireo.in.  Got a different colour thhan ordered. I want my money back.",cx: wrong item delivered | verified order vs delivered item photos -> new unit shipped under doa
+TK-241888,A3029,Delivery & Shipping,chat,1.0,"Hi team, Bought Strata 3 around 02 May from vireo.in.  Box was crushed and the Strata 3 is cracked. I took photos. Nothing changed. Please call me on my registered number. Awaiting response, Meera",Customer states unit received damaged. Checked with courier for damage claim. Refund initiated. ~Kavya
+TK-241924,A3029,Delivery & Shipping,chat,1.0,I haven't received my order - pls advise,Ticket raised for delivery delayed. Raised ticket with courier partner. Re-shipped from warehouse.
+TK-242453,A3030,Other,chat,1.0,"PRODUCT: STRATA 3
+ORDER: VR894710
+PURCHASED: APRIL 09
+ISSUE: I SENT THE UNIT IN 19 DAYS AGO AND HAVE HEARD NOTHING
+TRIED: CALLED SERVICE CENTRE
+EXPECTED: RESOLUTION",cx: repair status follow-up | followed up with service centre -> replacement approved and dispatched | xfer logistics
+TK-245675,A3038,Other,chat,1.0,"Product: Nxea 2
+Order: VR899877
+Purchased: 17-09-2025
+Issue: no update on my repair
+Tried: emailed twice
+Expected: fix","re: rma status query | followed up with service centre -> repair completed, shipped back | xfer returns desk ~Varun"
